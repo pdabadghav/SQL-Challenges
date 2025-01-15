@@ -1,2 +1,2 @@
 # SQL-Challenges
-SQL-Challenges
+DataLemur-SQL-Challenges
